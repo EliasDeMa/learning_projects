@@ -1,0 +1,6 @@
+[package]
+name = "fifth_root"
+version = "0.1.0"
+authors = ["Demare <elias.demaertelaere@gmail.com>"]
+
+[dependencies]
