@@ -1,1 +1,0 @@
-/home/elias/projects/rust_projects/learning_projects/guessing_game/target/rls/debug/libguessing_game-f9c8bb00f4100d9d.rmeta: /home/elias/projects/rust_projects/learning_projects/guessing_game/src/main.rs
