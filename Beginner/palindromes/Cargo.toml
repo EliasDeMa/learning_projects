@@ -1,0 +1,7 @@
+[package]
+name = "palindromes"
+version = "0.1.0"
+authors = ["Demare <elias.demaertelaere@gmail.com>"]
+
+[dependencies]
+regex = "1"
