@@ -1,3 +1,6 @@
+// Map every character from A-Z and convert them to the
+// right encrypted character.
+// Collect them into a single string for output
 pub fn encrypt_text(text: &str) -> String {
     text.chars().map(|c| {
         match c {
